@@ -2,11 +2,10 @@
 
 ## 👤 IDENTITAS
 
-* NIM  : 221011402522
 * Nama : Fahmi Yudin
-* Kelas: TI05
+* NIM  : 221011402522
+* Kelas: 06TPLE008
 * Mata Kuliah: Mobile Programming
-* Tahun: 2026
 
 ---
 
@@ -54,20 +53,6 @@ Setiap workshop menampilkan informasi berupa judul, tanggal, lokasi, kuota, sert
 
 ---
 
-## 📂 STRUKTUR PROJECT
-
-```
-workshop_app/
- ├── lib/
- │    └── main.dart
- ├── android/
- ├── pubspec.yaml
- ├── jawaban_soal1&2.md
- ├── README.md
-```
-
----
-
 ## 🚀 CARA MENJALANKAN
 
 1. Buka project di Android Studio
@@ -77,12 +62,6 @@ workshop_app/
 
 ---
 
-## 🔗 LINK REPOSITORY
-
-(Sesuai ketentuan dosen)
-
----
-
 ## 📌 CATATAN
 
-Project ini dibuat untuk memenuhi tugas mata kuliah Mobile Programming.
+Project ini dibuat untuk memenuhi tugas tengah semester atau UTS mata kuliah Mobile Programming.
