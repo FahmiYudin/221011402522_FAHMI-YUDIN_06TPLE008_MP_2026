@@ -172,9 +172,3 @@ Tombol `ElevatedButton` digunakan sebagai aksi utama yang memungkinkan pengguna 
 Hasil dari implementasi ini adalah sebuah aplikasi sederhana yang mampu menampilkan daftar workshop kampus secara rapi dan interaktif. Pengguna dapat melihat informasi penting seperti judul workshop, tanggal pelaksanaan, lokasi, serta kuota yang tersedia. Selain itu, aplikasi juga menyediakan tombol aksi untuk melakukan pendaftaran.
 
 Tampilan aplikasi yang menggunakan Card serta pengaturan jarak yang baik membuat informasi mudah dibaca dan tidak terlihat penuh. Dengan demikian, aplikasi ini telah memenuhi kebutuhan fungsional dan aspek kenyamanan pengguna (UX) sesuai dengan perancangan pada Soal 1.
-
----
-
-## Kesimpulan
-
-Implementasi aplikasi workshop menggunakan Flutter telah berhasil dilakukan dengan memanfaatkan berbagai widget yang sesuai dengan kebutuhan tampilan. Struktur aplikasi yang terorganisir, penggunaan ListView untuk menampilkan data, serta pemanfaatan Card untuk memperjelas setiap item membuat aplikasi ini menjadi rapi, mudah digunakan, dan sesuai dengan prinsip UI/UX yang baik.
